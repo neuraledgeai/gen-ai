@@ -1,4 +1,3 @@
-#  uri = st.secrets["URI"]
 import streamlit as st
 from google import genai
 
